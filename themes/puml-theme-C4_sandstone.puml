@@ -1,3 +1,5 @@
+!$BGCOLOR ?= black
+
 !theme sandstone
 
 !$THEME = "C4_sandstone"
